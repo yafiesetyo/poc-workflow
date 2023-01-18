@@ -1,0 +1,10 @@
+port: ":8030"
+db:
+  host:
+  port:
+  user:
+  password:
+  dbName:
+gcp:
+  projectId:
+  pubsubTopicId:
